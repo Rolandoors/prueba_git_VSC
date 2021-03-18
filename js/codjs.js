@@ -1,3 +1,3 @@
 function saludo(){
-    alert ("Hola mundo");
+    alert ("inicio en el curso de git");
 }
