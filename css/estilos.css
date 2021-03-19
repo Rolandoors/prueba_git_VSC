@@ -1,3 +1,7 @@
+* {
+    margin: center auto;
+}
+
 body{
     background-color: rgba(81, 255, 0, 0.109);
 }
